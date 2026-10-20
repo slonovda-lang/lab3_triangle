@@ -1,0 +1,24 @@
+# PyCharm
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Базы данных и логи
+*.db
+*.sqlite
+*.sqlite3
+Logs/
+file_txt.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Виртуальное окружение
+venv/
+.venv/
+env/
